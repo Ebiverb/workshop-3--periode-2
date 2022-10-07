@@ -1,0 +1,19 @@
+body h1 {
+    font-size: smaller;
+}
+body h2 {
+    font-size: small;
+}
+body h3 {
+    font-size: medium;
+}
+body h4 {
+    font-size: large;
+}
+body h5 {
+    font-size: larger;
+}
+
+body h6 {
+    font-size: x-large;
+}
